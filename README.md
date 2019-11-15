@@ -1,3 +1,5 @@
+This project has been discontinued. Check out [Tertimuss](https://github.com/uz-gaz/Tertimuss).
+
 # Simulation environment for Real-Time Multiprocessor Schedulers
 
 This is a tool to test real-time thermal aware schedulers.
